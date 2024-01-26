@@ -9,11 +9,56 @@ body{
     left: 20px;
 }
 .p2{
-    color: white;
-    position: absolute;
-    top: 32px;
-    left: 188px;
+    color: white; 
+    text-decoration: none;   
     font-family: sans-serif;
-    letter-spacing: 1px;
-    word-spacing: 5px;
+    position: absolute;
+    top: 36px;
+    left: 192px;
+    font-size: large;
+}
+.p3{
+    color: white; 
+    text-decoration: none;   
+    font-family: sans-serif;
+    position: absolute;
+    top: 36px;
+    left: 267px;
+    font-size: large;
+}
+.p4{
+    color: white; 
+    text-decoration: none;   
+    font-family: sans-serif;
+    position: absolute;
+    top: 36px;
+    left: 340px;
+    font-size: large;
+}
+.p5{
+    color: white; 
+    text-decoration: none;   
+    font-family: sans-serif;
+    position: absolute;
+    top: 36px;
+    left: 465px;
+    font-size: large;
+}
+.p6{
+    color: white; 
+    text-decoration: none;   
+    font-family: sans-serif;
+    position: absolute;
+    top: 36px;
+    left: 570px;
+    font-size: large;
+}
+.p7{
+    color: white; 
+    text-decoration: none;   
+    font-family: sans-serif;
+    position: absolute;
+    top: 36px;
+    left: 674px;
+    font-size: large;
 }
