@@ -15,7 +15,8 @@ body{
     position: absolute;
     top: 36px;
     left: 192px;
-    font-size: large;
+    font-size: 15px;
+    font-weight: 500;
 }
 .p3{
     color: white; 
@@ -24,7 +25,8 @@ body{
     position: absolute;
     top: 36px;
     left: 267px;
-    font-size: large;
+    font-size: 15px;
+    font-weight: 500;
 }
 .p4{
     color: white; 
@@ -33,7 +35,8 @@ body{
     position: absolute;
     top: 36px;
     left: 340px;
-    font-size: large;
+    font-size: 15px;
+    font-weight: 500;
 }
 .p5{
     color: white; 
@@ -42,7 +45,8 @@ body{
     position: absolute;
     top: 36px;
     left: 465px;
-    font-size: large;
+    font-size: 15px;
+    font-weight: 500;
 }
 .p6{
     color: white; 
@@ -51,7 +55,8 @@ body{
     position: absolute;
     top: 36px;
     left: 570px;
-    font-size: large;
+    font-size: 15px;
+    font-weight: 500;
 }
 .p7{
     color: white; 
@@ -60,5 +65,13 @@ body{
     position: absolute;
     top: 36px;
     left: 674px;
-    font-size: large;
+    font-size: 15px;
+    font-weight: 500;
+}
+.p8{
+    width: 40px;
+    height: 60px;
+    position: absolute;
+    top: 36px;
+    left: 750px;
 }
