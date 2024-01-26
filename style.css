@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+.p1{
+    width: 150px;
+    height: 60px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.p2{
+    color: white;
+    position: absolute;
+    top: 32px;
+    left: 188px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+}
