@@ -72,10 +72,15 @@ body{
     border-radius: 50px;
 }
 .p8{
-    width: 30px;
-    height: 30px;
+    color: white;  
+    border: 1px solid white;
+    padding: 18px;
+    text-decoration: none;   
+    font-family: sans-serif;
     position: absolute;
-    top: 36px;
+    top: 18px;
     left: 820px;
-
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 50px;
 }
