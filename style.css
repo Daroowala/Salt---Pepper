@@ -60,15 +60,16 @@ body{
 }
 .p7{
     border: 1px solid white;
-    padding: 15px;
+    padding: 18px;
     color: white; 
     text-decoration: none;   
     font-family: sans-serif;
     position: absolute;
-    top: 36px;
-    left: 674px;
+    top: 18px;
+    left: 665px;
     font-size: 15px;
     font-weight: 500;
+    border-radius: 50px;
 }
 .p8{
     width: 30px;
