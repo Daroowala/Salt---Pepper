@@ -1,103 +1,115 @@
-body{
-    background-color: black;
+body {
+  background-color: black;
 }
-.p1{
-    width: 165px;
-    height: 75px;
-    position: absolute;
-    top: 11px;
-    left: 20px;
+.p1 {
+  width: 165px;
+  height: 75px;
+  position: absolute;
+  top: 11px;
+  left: 20px;
 }
-.p2{
-    color: white; 
-    text-decoration: none;   
-    font-family: sans-serif;
-    position: absolute;
-    top: 36px;
-    left: 220px;
-    font-size: 15px;
-    font-weight: 500;
+.p2 {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+  position: absolute;
+  top: 36px;
+  left: 220px;
+  font-size: 15px;
+  font-weight: 500;
 }
-.p3{
-    color: white; 
-    text-decoration: none;   
-    font-family: sans-serif;
-    position: absolute;
-    top: 36px;
-    left: 300px;
-    font-size: 15px;
-    font-weight: 500;
+.p3 {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+  position: absolute;
+  top: 36px;
+  left: 300px;
+  font-size: 15px;
+  font-weight: 500;
 }
-.p4{
-    color: white; 
-    text-decoration: none;   
-    font-family: sans-serif;
-    position: absolute;
-    top: 36px;
-    left: 380px;
-    font-size: 15px;
-    font-weight: 500;
+.p4 {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+  position: absolute;
+  top: 36px;
+  left: 380px;
+  font-size: 15px;
+  font-weight: 500;
 }
-.p5{
-    color: white; 
-    text-decoration: none;   
-    font-family: sans-serif;
-    position: absolute;
-    top: 36px;
-    left: 500px;
-    font-size: 15px;
-    font-weight: 500;
+.p5 {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+  position: absolute;
+  top: 36px;
+  left: 500px;
+  font-size: 15px;
+  font-weight: 500;
 }
-.p6{
-    color: white; 
-    text-decoration: none;   
-    font-family: sans-serif;
-    position: absolute;
-    top: 36px;
-    left: 600px;
-    font-size: 15px;
-    font-weight: 500;
+.p6 {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+  position: absolute;
+  top: 36px;
+  left: 600px;
+  font-size: 15px;
+  font-weight: 500;
 }
-.p7{
-    border: 1px solid white;
-    padding: 18px;
-    color: white; 
-    text-decoration: none;   
-    font-family: sans-serif;
-    position: absolute;
-    top: 18px;
-    left: 700px;
-    font-size: 15px;
-    font-weight: 500;
-    border-radius: 50px;
+.p7 {
+  border: 1px solid white;
+  padding: 18px;
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+  position: absolute;
+  top: 18px;
+  left: 700px;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 50px;
 }
-.p8{
-    color: white;  
-    border: 1px solid white;
-    padding: 18px;
-    background-color: red;
-    text-decoration: none;   
-    font-family: sans-serif;
-    position: absolute;
-    top: 18px;
-    left: 857px;
-    font-size: 15px;
-    font-weight: 500;
-    border-radius: 50px;
-    width: 12%;
-    text-align: center;
+.p8 {
+  color: white;
+  border: 1px solid white;
+  padding: 18px;
+  background-color: red;
+  text-decoration: none;
+  font-family: sans-serif;
+  position: absolute;
+  top: 18px;
+  left: 857px;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 50px;
+  width: 10%;
+  text-align: center;
 }
-.p9{
-    height: 100%;
-    width: 100%;
-    position: relative;
-    top: 80px;
+.p9 {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  top: 80px;
 }
-.p10{
-    color: white;
-    position: absolute;
-    top: 540px;
-    left: 240px;
-    font-size: 47px;
-    font-family: "Orbitron";
+.p10 {
+  color: white;
+  position: absolute;
+  top: 515px;
+  left: 240px;
+  font-size: 47px;
+  font-family: "Orbitron";
+  font-weight: 50;
+}
+.p11 {
+  color: lightgray;
+  position: absolute;
+  top: 650px;
+  left: 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 2px;
+}
+.p12{
+    
 }
