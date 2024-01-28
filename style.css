@@ -2,10 +2,10 @@ body{
     background-color: black;
 }
 .p1{
-    width: 150px;
-    height: 60px;
+    width: 165px;
+    height: 75px;
     position: absolute;
-    top: 20px;
+    top: 11px;
     left: 20px;
 }
 .p2{
@@ -14,7 +14,7 @@ body{
     font-family: sans-serif;
     position: absolute;
     top: 36px;
-    left: 192px;
+    left: 220px;
     font-size: 15px;
     font-weight: 500;
 }
@@ -24,7 +24,7 @@ body{
     font-family: sans-serif;
     position: absolute;
     top: 36px;
-    left: 267px;
+    left: 300px;
     font-size: 15px;
     font-weight: 500;
 }
@@ -34,7 +34,7 @@ body{
     font-family: sans-serif;
     position: absolute;
     top: 36px;
-    left: 340px;
+    left: 380px;
     font-size: 15px;
     font-weight: 500;
 }
@@ -44,7 +44,7 @@ body{
     font-family: sans-serif;
     position: absolute;
     top: 36px;
-    left: 465px;
+    left: 500px;
     font-size: 15px;
     font-weight: 500;
 }
@@ -54,7 +54,7 @@ body{
     font-family: sans-serif;
     position: absolute;
     top: 36px;
-    left: 570px;
+    left: 600px;
     font-size: 15px;
     font-weight: 500;
 }
@@ -66,7 +66,7 @@ body{
     font-family: sans-serif;
     position: absolute;
     top: 18px;
-    left: 665px;
+    left: 700px;
     font-size: 15px;
     font-weight: 500;
     border-radius: 50px;
@@ -75,12 +75,21 @@ body{
     color: white;  
     border: 1px solid white;
     padding: 18px;
+    background-color: red;
     text-decoration: none;   
     font-family: sans-serif;
     position: absolute;
     top: 18px;
-    left: 820px;
+    left: 857px;
     font-size: 15px;
     font-weight: 500;
     border-radius: 50px;
+    width: 12%;
+    text-align: center;
+}
+.p9{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    top: 80px;
 }
