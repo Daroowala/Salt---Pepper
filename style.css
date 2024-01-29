@@ -97,7 +97,7 @@ body {
   color: white;
   position: absolute;
   top: 515px;
-  left: 240px;
+  left: 150px;
   font-size: 47px;
   font-family: "Orbitron";
   font-weight: 50;
@@ -110,6 +110,34 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   letter-spacing: 2px;
 }
-.p12{
-
+.fonts {
+  color: red;
+  text-shadow: 2px 2px 1px white;
+}
+.box1{
+  width: 250px;
+  height: 111px;
+  background-color: red;
+  position: absolute;
+  top: 700px;
+  left: 30px;
+  margin: 20px;
+}
+.box2{
+  width: 250px;
+  height: 111px;
+  background-color: red;
+  position: absolute;
+  top: 700px;
+  left: 357px;
+  margin: 20px;
+}
+.box3{
+  width: 250px;
+  height: 111px;
+  background-color: red;
+  position: absolute;
+  top: 700px;
+  left: 680px;
+  margin: 20px;
 }
